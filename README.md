@@ -9,6 +9,7 @@ Insights and recommendations are provided on the following key areas:
 - **Customer Demographics and Segmentation:** Understanding customer behavior and tailoring campaigns for better engagement.
 - **Competitor Benchmarking:** Assessing competitors' marketing efforts to derive actionable insights.
 - **External Factor Impact:** Analyzing the influence of macroeconomic trends on campaign performance.
+
 An interactive LookerStudio dashboard used to report and explore sales trends can be found [here](https://lookerstudio.google.com/embed/reporting/0dba8293-fdc4-4910-868f-cbdbcdb4e723/page/p_hhc68i7ymd) 
 
 ## Data Structure & Initial Checks
@@ -21,7 +22,7 @@ TechTech’s main database consists of four key tables:
 - **External Factors Table:** Provides contextual data on economic trends like GDP growth and inflation rates.
 
 ![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/Customer_marketing.png)
-![](
+![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/TechTechvsCompetition.png)
 
 
 ## Executive Summary
@@ -29,34 +30,34 @@ TechTech’s main database consists of four key tables:
 -	TechTech’s marketing campaigns demonstrate variability in ROI, with some campaigns significantly outperforming others.
 -	Customer demographics reveal a strong engagement from regular customers and a higher concentration of responses in specific locations like Chicago.
 -	Competitor campaigns show more consistent performance, highlighting an opportunity for TechTech to refine its strategies for consistency.
-[1]
+![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/TechTech/TechTech1.png)
 
 ## Insights Deep Dive
 ### Campaign ROI Analysis
 -	TechTech’s high-performing campaigns deliver ROI exceeding the industry average. Campaigns with personalized messaging and targeted ads yielded better results.
 -	Low-performing campaigns often had a mismatch in budget allocation and target audience engagement.
 -	Competitor benchmarking indicates TechTech’s ROI is competitive but lacks consistency.
-[8]
+![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/TechTech/TechTech8.png)
 
 ### Customer Demographics and Segmentation
 **Female customers** represent a significant portion of the audience, especially in urban centers like Chicago.
 **Regular customers** exhibit the highest ROI, while premium customers engage less frequently but contribute higher revenue per sale.
 **Younger demographics** (ages 25-34) respond well to social media campaigns.
-[6]
+![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/TechTech/TechTech6.png)
 
 ### Competitor Benchmarking
 -	Competitors achieve consistency by maintaining balanced ad spends and prioritizing high-conversion channels.
 -	Competitors’ seasonal campaigns focus on market events, yielding better timing for launches.
 -	TechTech’s campaigns have higher clicks and impressions but do not always convert efficiently.
 -	Strategies emphasizing consistency can narrow performance gaps with competitors.
-[5]
+![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/TechTech/TechTech8.png)
 
 ### External Factor Impact
 -	Economic trends such as GDP growth and inflation have limited direct impact on campaign performance.
 -	Consumer sentiment indices occasionally align with spikes in campaign engagement.
 -	Seasonal variations and industry events show stronger correlations with campaign success.
 -	External data should be integrated more granularly to refine predictive models.
-[3]
+![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/TechTech/TechTech3.png)
 
 ## Recommendations
 - **Campaign Optimization:** Conduct deeper analysis of successful campaigns to replicate best practices, especially around content and budget allocation.
