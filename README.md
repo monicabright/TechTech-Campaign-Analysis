@@ -19,7 +19,7 @@ TechTech’s main database consists of four key tables:
 - **Customers Table:** Includes demographic and segmentation information for each customer.
 - **Competitor campaign Table:** information on metrics  such as competitor’s ad spend, clicks, conversions and ROI.
 - **External Factors Table:** Provides contextual data on economic trends like GDP growth and inflation rates.
-[Entity Relationship Diagram here]
+![](
 
 ## Executive Summary
 ### Overview of Findings
@@ -56,10 +56,10 @@ TechTech’s main database consists of four key tables:
 [3]
 
 ## Recommendations
-**Campaign Optimization:** Conduct deeper analysis of successful campaigns to replicate best practices, especially around content and budget allocation.
-**Targeted Marketing Strategies:** Develop campaigns tailored to specific demographics and expand focus to underrepresented groups.
-**Competitive Strategy:** Study successful competitor campaigns for insights into effective timing and messaging.
-**Leveraging External Insights:** Incorporate market trends and consumer sentiment data into campaign planning.
-**Data-Driven Decisions:** Invest in advanced analytics and predictive modeling for better resource allocation.
+- **Campaign Optimization:** Conduct deeper analysis of successful campaigns to replicate best practices, especially around content and budget allocation.
+- **Targeted Marketing Strategies:** Develop campaigns tailored to specific demographics and expand focus to underrepresented groups.
+- **Competitive Strategy:** Study successful competitor campaigns for insights into effective timing and messaging.
+- **Leveraging External Insights:** Incorporate market trends and consumer sentiment data into campaign planning.
+- **Data-Driven Decisions:** Invest in advanced analytics and predictive modeling for better resource allocation.
  	
 An interactive LookerStudio dashboard used to report and explore sales trends can be found [here](https://lookerstudio.google.com/embed/reporting/0dba8293-fdc4-4910-868f-cbdbcdb4e723/page/p_hhc68i7ymd) 
