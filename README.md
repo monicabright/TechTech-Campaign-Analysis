@@ -19,7 +19,9 @@ TechTech’s main database consists of four key tables:
 - **Customers Table:** Includes demographic and segmentation information for each customer.
 - **Competitor campaign Table:** information on metrics  such as competitor’s ad spend, clicks, conversions and ROI.
 - **External Factors Table:** Provides contextual data on economic trends like GDP growth and inflation rates.
-![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/TechTech/TechTech%20vs%20Competition.png)
+
+![](https://github.com/monicabright/TechTech-Campaign-Analysis/blob/main/Customer_marketing.png)
+![](
 
 
 ## Executive Summary
